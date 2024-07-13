@@ -1,1 +1,1 @@
-# stoneAgeStudy
+## CLI 없이 직접 만들어보기!
