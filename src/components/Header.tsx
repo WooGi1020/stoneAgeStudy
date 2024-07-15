@@ -4,7 +4,7 @@ type props = { text: string };
 
 const Header = ({ text }: props) => {
   return (
-    <header>
+    <header style={{ height: "40px", marginBottom: "20px" }}>
       <h1 style={{ color: "#111" }}>{text}</h1>
     </header>
   );
